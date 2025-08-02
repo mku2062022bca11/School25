@@ -1,0 +1,31 @@
+OB365 School - HOME PAGE CONTENT
+
+Hero Section:
+- Main Tagline: "Empowering Global Citizens of Tomorrow"
+- Subtitle: "Where innovation meets education in a globally connected learning environment"
+- CTA Buttons: "Explore Academics" and "Virtual Tour"
+
+Achievements Section:
+- 2500+ Students from diverse backgrounds
+- 150+ Expert Teachers and Global Mentors  
+- 25+ Countries represented in our community
+- 98% Success Rate in global assessments
+
+Innovation Highlights:
+1. AI-Powered Learning: Students developed an AI tutoring system that adapts to individual learning patterns, winning the National Innovation Award 2024
+2. Space Exploration Project: Our students collaborated with NASA on a Mars simulation project, developing solutions for space agriculture
+3. Green Energy Innovation: Award-winning solar panel efficiency project by our senior students, increasing efficiency by 40%
+
+School Highlights:
+- Global Curriculum: CBSE integrated with international best practices for comprehensive learning
+- Excellence in Innovation: State-of-the-art labs and innovation centers fostering creativity and critical thinking
+- Diverse Community: Students from 25+ countries creating a truly global learning environment
+- Future-Ready Skills: Focus on 21st-century skills including coding, robotics, and digital literacy
+
+Quick Links Panel:
+- Online Admission Portal
+- Download Digital Prospectus
+- Schedule Campus Visit
+- Virtual Reality Tour
+- Parent Portal Access
+- Student Achievement Gallery
